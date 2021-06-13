@@ -1,2 +1,2 @@
 # invisibility-cloak
-A Python Program to make anything  which comes under red cloth.
+A Python Program to make anything invisible which comes under red cloth.
